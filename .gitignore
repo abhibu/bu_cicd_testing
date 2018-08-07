@@ -1,0 +1,15 @@
+### IntelliJ project files
+.idea/
+*.iml
+*.ipr
+*.iws
+### Eclipse project files
+.settings/
+.classpath
+.project
+### build output
+bin/
+build/
+target/
+### project files
+src/main/resources/config.properties
